@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wikidetox-viz",
+  "private_key_id": "597cf87aea29a089539dae95b9f1f6d9a14f7ef4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzLQx7jsRjymrV\n0bCbi1U8FDrxFNaXWDrCe4wVsI5B9cX88q+S/QEaYVztlVhgbmE1oZelsInQCd4V\nJ9PEKqoahQCvHAWJygmGUenvQoiAWEfgpv4t3RKjD5GIUHOGqYEsgfAx6CyRNayz\n0u/2JCEqm7+UmRYaqUeuV+beB1WgfDgjRaROnWAUQEP+hsa0f7qPltn+XKE1krmG\ndQhwI4Z6mF2R3QDtFal9kRVWf+UR/2sVudimnLOtMnbXA3eer7soFTVrPrKsFe+A\nziaKZjSU3bgQEeiwPV47a0o3z9AvMT82eVlv26J9Z8s/Nhg1Ml/1BwZqWr7WIjQ9\n9cdKCemrAgMBAAECggEAFdTmByK80zFAFeWC5gZIJcCL81ayqaYvzVqjFabO7pff\nvpO4yOmC+jqQHsgVCKA/v/p8hnfIPaJg06W9Vn2hqbGNr8hznve7HrQEaQlrpcJx\nSkeOrk/tjBNtjB/MCRsbiNdxnjhylbmQiCiqNwztQvUklsVAaDyQELItMzMkP8rZ\nauSclioe1ymDzkrtcEovh2ALrFgfIv+/BtX1LfjAyAHORMfuDKEpcbj8m1mJO2O3\nBI0sKRSj/t5VdFjKcZHL0Kut4AFnSaWykNHbgX7IuKFa8MWC9bxdWN82a96SU5Nw\nOHgZkANN+V8s5M4XwgN2Ab6u4Ox1ZpszT2xkq6tEIQKBgQDXaoH7c1YoAcdOIoKR\n+tsDUDHbSsARV+zJU1SFenDdd1FHgbWnph/ZKvRVOmigo5cr5G0foQk3qxJBUxCx\ncnyNf9FznIwE0CuiDl1vinI6u48KqEKzW5ThJer0/CKVK+00wxIeAtQU/rjmnccL\n6CLLLdc8stlGauGYYF9CConvrwKBgQDU7q+r7kF1f5bUWn8xKODHRQztjGDSMQlt\nMFwY/0DptFSFScn9A/YW2FOJ+9XOVv7NnEjPZARW693QzsQBz9H5eNV6j8H2Ns1m\najg8+8auQG1hzo3RKRRy/8/Gn1OGFvUY5s34A2vlp/sT3U8vWTm6JC2AoqrbydPu\nqgEUsskIxQKBgHgmlf10ZVfHNi1knkNiEgqVDlnsJZkG27GnYvtYQd+lD5a8yF+M\nDzOH++QVwgnndQgsTplXrtZ3+qSo+iSfYM1jv6WmaYq9ubiYHpF6PSB5QN2G4D0+\nFZpHFfgzMe7WI2ZMb6yBk11qfiNTWZRQlCeTl/vpHbtjHhVpm3gwfKNNAoGAAhyj\n7Wadi5bKXizPmiM3p4JN0IVV6H/IAic6opzVffvl4rSKplHFvRBEM9gllLhUKqHk\nLvpk+J+6QXnrg8EV6g2CwIZwfAqrGtru19v/ancFHrU3vt1TcJiM7QFjiK7tm2Oe\no1kVVt/Fo7rMMEIISopVUTNL0oY77eANxrDHQakCgYAttoD4R5g/esW1Xd519uqm\noQH9ah7qaFR7fM1nA6f7+aKRrOgf6v6wmzdwr2h3P3bu7V//e/Sa1KWr68+XaxlI\nKEPPorMDOaurTFgvRZA63ParDiY1qW+rw5wHGHzG120/6dhWUg4ssq33ue2gpI27\nigno5Aej1EnCcAVUBdj/Pw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "wikidetox-viz@appspot.gserviceaccount.com",
+  "client_id": "",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wikidetox-viz%40appspot.gserviceaccount.com"
+}
