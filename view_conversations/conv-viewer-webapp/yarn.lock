@@ -171,9 +171,9 @@
   dependencies:
     tslib "^1.7.1"
 
-"@conversationai/wpconvlib@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@conversationai/wpconvlib/-/wpconvlib-0.0.3.tgz#e1b39f607158859ec9504139d08390c87a1e0bec"
+"@conversationai/wpconvlib@^0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@conversationai/wpconvlib/-/wpconvlib-0.0.5.tgz#8e63ed194d3ac6ed9cadeef0dfa793ad3eea7a8c"
 
 "@ngtools/json-schema@1.2.0":
   version "1.2.0"
@@ -3505,8 +3505,8 @@ lodash.debounce@^4.0.8:
   resolved "https://registry.yarnpkg.com/lodash.debounce/-/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
 
 lodash.mergewith@^4.6.0:
-  version "4.6.1"
-  resolved "https://registry.yarnpkg.com/lodash.mergewith/-/lodash.mergewith-4.6.1.tgz#639057e726c3afbdb3e7d42741caa8d6e4335927"
+  version "4.6.2"
+  resolved "https://registry.yarnpkg.com/lodash.mergewith/-/lodash.mergewith-4.6.2.tgz#617121f89ac55f59047c7aec1ccd6654c6590f55"
 
 lodash.tail@^4.1.1:
   version "4.1.1"
