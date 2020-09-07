@@ -171,9 +171,9 @@
   dependencies:
     tslib "^1.7.1"
 
-"@conversationai/wpconvlib@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@conversationai/wpconvlib/-/wpconvlib-0.0.3.tgz#e1b39f607158859ec9504139d08390c87a1e0bec"
+"@conversationai/wpconvlib@^0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@conversationai/wpconvlib/-/wpconvlib-0.0.5.tgz#8e63ed194d3ac6ed9cadeef0dfa793ad3eea7a8c"
 
 "@ngtools/json-schema@1.2.0":
   version "1.2.0"
@@ -5670,8 +5670,8 @@ tough-cookie@~2.3.0, tough-cookie@~2.3.3:
     punycode "^1.4.1"
 
 tree-kill@^1.0.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.0.tgz#5846786237b4239014f05db156b643212d4c6f36"
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
 
 trim-newlines@^1.0.0:
   version "1.0.0"
